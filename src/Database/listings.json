@@ -1,0 +1,34 @@
+[
+    {
+      "providerId": "64b9f1234c56e12345678abc",
+      "title": "Experienced Caregiver Available",
+      "description": "10 years of experience in elderly care. Compassionate and reliable.",
+      "location": "New York, NY",
+      "price": 25,
+      "available": true
+    },
+    {
+      "providerId": "64b9f1234c56e12345678def",
+      "title": "Homecare for Disabled Adults",
+      "description": "Specialized in caring for disabled adults. References available upon request.",
+      "location": "Los Angeles, CA",
+      "price": 30,
+      "available": true
+    },
+    {
+      "providerId": "64b9f1234c56e12345678ghi",
+      "title": "Certified Nurse for Homecare",
+      "description": "Certified nurse with 8 years of experience in homecare services.",
+      "location": "Chicago, IL",
+      "price": 28,
+      "available": true
+    },
+    {
+      "providerId": "64b9f1234c56e12345678jkl",
+      "title": "Affordable Homecare for Seniors",
+      "description": "Affordable and compassionate homecare services for seniors.",
+      "location": "Houston, TX",
+      "price": 20,
+      "available": true
+    }
+  ]

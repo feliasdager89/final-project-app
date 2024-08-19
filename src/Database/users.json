@@ -1,0 +1,38 @@
+[
+    {
+        "username": "provider1",
+        "password": "password123",
+        "email": "provider1@example.com",
+        "role": "PROVIDER",
+        "firstName": "John",
+        "lastName": "Doe",
+        "age": 45
+    },
+    {
+        "username": "guardian1",
+        "password": "password123",
+        "email": "guardian1@example.com",
+        "role": "GUARDIAN",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "age": 38
+    },
+    {
+        "username": "provider2",
+        "password": "password123",
+        "email": "provider2@example.com",
+        "role": "PROVIDER",
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "age": 50
+    },
+    {
+        "username": "guardian2",
+        "password": "password123",
+        "email": "guardian2@example.com",
+        "role": "GUARDIAN",
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "age": 40
+    }
+]
